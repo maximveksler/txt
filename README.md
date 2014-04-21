@@ -1,4 +1,4 @@
-###### Constants in Objective C
+# Constants in Objective C
 Declaring constants in Objective C (like public static string in java)
 
 In .h 
