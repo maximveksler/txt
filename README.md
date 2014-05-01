@@ -67,7 +67,7 @@ static NBoxLocationManager *sharedSingleton;
 
 ```
 
-# Define Super Class in Object Inheritance not implementing a method
+# Fail on object not implemented
 ```objc
 - (void)performWithAsset:(AVAsset*)asset
 {
