@@ -66,3 +66,13 @@ static NBoxLocationManager *sharedSingleton;
 }
 
 ```
+
+# Define Super Class in Object Inheritance not implementing a method
+```objc
+- (void)performWithAsset:(AVAsset*)asset
+{
+	[self doesNotRecognizeSelector:_cmd];
+}
+```
+
+For reference see https://developer.apple.com/library/ios/samplecode/avsimpleeditorios/Listings/AVSimpleEditor_AVSECommand_m.html
