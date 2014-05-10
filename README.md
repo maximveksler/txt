@@ -67,7 +67,7 @@ static NBoxLocationManager *sharedSingleton;
 
 ```
 
-# Fail on object not implemented
+# Fail on method not implemented Objective-C
 ```objc
 - (void)performWithAsset:(AVAsset*)asset
 {
