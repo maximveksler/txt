@@ -75,4 +75,4 @@ static NBoxLocationManager *sharedSingleton;
 }
 ```
 
-For reference see https://developer.apple.com/library/ios/samplecode/avsimpleeditorios/Listings/AVSimpleEditor_AVSECommand_m.html
+For reference see [AVSimpleEditor_AVSECommand_m](https://developer.apple.com/library/ios/samplecode/avsimpleeditorios/Listings/AVSimpleEditor_AVSECommand_m.html)
