@@ -67,12 +67,17 @@ static NBoxLocationManager *sharedSingleton;
 
 ```
 
-# Fail on method not implemented Objective-C
+# Method not implemented
 ```objc
 - (void)performWithAsset:(AVAsset*)asset
 {
 	[self doesNotRecognizeSelector:_cmd];
 }
 ```
-
 For reference see [AVSimpleEditor_AVSECommand_m](https://developer.apple.com/library/ios/samplecode/avsimpleeditorios/Listings/AVSimpleEditor_AVSECommand_m.html)
+
+
+# Throw Exception
+```objc
+[NSException raise:@"Invalid foo value" format:@"foo of %d is invalid", foo];
+```
