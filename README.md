@@ -1,1 +1,1 @@
-So many notes about so many things. Oh boy!
+So many notes about so few things.
