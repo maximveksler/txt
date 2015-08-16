@@ -1,4 +1,6 @@
-### Query user object via rest API from command line
+# Passing User object to the REST API
+
+Query by user object (rather then ID) via rest API from command line with curl
 
 ```javascript
 /*
