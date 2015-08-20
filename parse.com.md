@@ -40,14 +40,12 @@ parse log -l ERROR -f
 
 #### Window 2
 
-zig zag between git push & curl.
-
-git
+Zig zag between git push & curl.
 
 ```bash
 git commit -a -m"....."; git push
 ```
-curl
+
 
 ```bash
 curl -X POST  \
