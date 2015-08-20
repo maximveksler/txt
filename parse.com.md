@@ -32,11 +32,15 @@ Parse.Cloud.define("nearby", function(request, response) {
 
 Parse develop command line sucks for 2 reasons: It tends to get stuck and it will swollow syntax errors. So the work around is to use 2 terminal windows. 3 if you're commiting as well.
 
- 1. 
- ```bash
- parse log -l ERROR -f
- ```
- 1. zig zag between these 2:
+#### Window 1
+
+```bash
+parse log -l ERROR -f
+```
+
+#### Window 2
+
+zig zag between git push & curl.
 
 git
 
@@ -53,7 +57,9 @@ curl -X POST  \
  -d '{ "sourceId": "jQsulDGk8Z" }' \
  https://api.parse.com/1/functions/nearby | python -m json.tool
 ```
- 3.
+
+#### Window 3
+
 ```bash
 while `true`; do sleep 0.5; parse deploy; if [ $? -ne 0 ]; then sleep 10; fi; done
 ```
