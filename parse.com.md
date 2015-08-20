@@ -42,12 +42,12 @@ parse log -l ERROR -f
 
 Zig zag between git push & curl.
 
-```bash
+```git
 git commit -a -m"....."; git push
 ```
 
 
-```bash
+```curl
 curl -X POST  \
  -H "X-Parse-Application-Id: <<<>>>" \
  -H "X-Parse-REST-API-Key: <<<>>>" \
