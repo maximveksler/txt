@@ -36,4 +36,4 @@ Parse develop command line sucks for 2 reasons: It tends to get stuck and it wil
  1. ```git commit -a -m"....."; git push```
  1. ```while `true`; do sleep 0.5; parse deploy; if [ $? -ne 0 ]; then sleep 10; fi; done```
 
-// todo: add iTerm screen caputure image.
+![parse.com iTerm setup](https://raw.githubusercontent.com/maximveksler/null/master/parse.com/iTerm.png)
