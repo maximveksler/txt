@@ -37,9 +37,15 @@ Parse develop command line sucks for 2 reasons: It tends to get stuck and it wil
  parse log -l ERROR -f
  ```
  1. zig zag between these 2:
-  1. ```git commit -a -m"....."; git push```
-  2. 
+
+git
+
+```bash
+git commit -a -m"....."; git push
 ```
+curl
+
+```bash
 curl -X POST  \
  -H "X-Parse-Application-Id: <<<>>>" \
  -H "X-Parse-REST-API-Key: <<<>>>" \
@@ -47,8 +53,7 @@ curl -X POST  \
  -d '{ "sourceId": "jQsulDGk8Z" }' \
  https://api.parse.com/1/functions/nearby | python -m json.tool
 ```
-
-###### lower right 
+ 3.
 ```bash
 while `true`; do sleep 0.5; parse deploy; if [ $? -ne 0 ]; then sleep 10; fi; done
 ```
