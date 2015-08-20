@@ -27,3 +27,13 @@ Parse.Cloud.define("nearby", function(request, response) {
 	       });
 })
 ```
+
+# Parse hacker terminal layout
+
+Parse develop command line sucks for 2 reasons: It tends to get stuck and it will swollow syntax errors. So the work around is to use 2 terminal windows. 3 if you're commiting as well.
+
+ 1. ```parse log -l ERROR -f```
+ 1. ```git commit -a -m"....."; git push```
+ 1. ```while `true`; do sleep 0.5; parse deploy; if [ $? -ne 0 ]; then sleep 10; fi; done```
+
+// todo: add iTerm screen caputure image.
