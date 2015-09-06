@@ -1,4 +1,5 @@
 # Screen Sizes and resolutions
+![Size of Screen](https://raw.githubusercontent.com/maximveksler/null/master/iOS/Sizes%20Of%20Screen.png)
 
 # Add text to NSScrollView
 
