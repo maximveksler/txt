@@ -13,7 +13,13 @@ Taking notes, FRP for fun & profit.
  * Eviction
  * marble diagrams
 
+### Functional Reactive Awesomeness With Swift 
 
+<https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/>
+
+Lecture from AltConf 2015, by Ash Furrow. Covering building submit UI with RxSwift
+
+ 
 ## Code
 
 https://github.com/ReactiveX/RxSwift
