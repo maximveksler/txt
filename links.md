@@ -1,3 +1,13 @@
+#2018-06-03
+
+https://www.amazon.co.uk/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=Q0QKT4ZNBTEZQBQDRYTR
+
+http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/
+
+http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/
+
+
+
 # Past
 
 http://devdocs.io/
