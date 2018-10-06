@@ -1,0 +1,156 @@
+https://zettelkasten.de/posts/three-layers-structure-zettelkasten/
+	Niklas Luhmanns "Zettelkasten"
+
+	https://github.com/renerocksai/sublimeless_zk
+
+
+Zotero
+	Oranizive knowladge in structued, tagged, hirarchial way.
+	academic papers
+
+Org-Mode
+	Orginize tasks, todos and knowladge in textual way. Let's meta manager prevent smart views on top of it.
+	personal notes, life notes
+
+	beorg
+		iOS Org Mode tool
+
+	orgzly.com
+		android Org Mode tool
+
+	org-ref
+		Academic paper referencing from Org Mode
+
+	interleave/org-noter
+		Note taking on PDF's
+
+	Orgzly
+
+en.wikipedia.org/wiki/Focal_point_(game_theory)
+	Cause behaviour by creating a situation where the other side assumes what you will do
+
+www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences
+	Discourge behaviour by creting small inconviniences
+
+en.m.wikipedia.org/wiki/Nudge_theory
+	affect behaviour by creating positive incentives
+
+blog.dilbert.com/2013/11/18/goals-vs-systems/
+ 	System instead of will power
+
+git-annex
+	personal work data.
+
+Google Drive, Dropbox
+	shared work data
+
+
+Switch tools as needed based on circumstance. For example, my personal work notes are in org-mode, academic papers are in Zotero, personal work data is in a git + git-annex repo, and shared work notes and data are spread between Google Drive, Dropbox, and a private file server, depending on the requirements of the other people involved. I also have personal life notes in org-mode, Simplenote, and some ancient notes still to be migrated from Evernote. Hyperlinks tie files together as needed.
+
+simplenote.com (by automattic)
+	commerical free product
+	note time traval
+	search
+	tags
+	sharing
+	b quality finishing
+
+pandoc.org
+	format converter
+
+Evernote
+	web clipping as a way to prevent digital rot
+
+
+boostnote.io
+	Markdown notes
+	Code snippets
+
+joplin.cozic.net
+	note taking
+	web clipping to custom backend (dropbox)
+
+RDBMS
+
+en.m.wikipedia.org/wiki/Memex
+
+
+www.dougengelbart.org/about/vision-highlights.html
+	Augmenting Society's Collective IQ
+
+thorny.io
+	structued decision making
+
+tiddlywiki.com
+	hakish
+	wiki in a single html file
+
+perkeep.org
+	object and file storage system
+	self hosted
+	open source
+	pull in from social media
+
+http://zim-wiki.org
+	desktop wiki
+
+DEVONthink
+	document auto tagging
+	semantic analysis for similarities
+
+strlen.com/treesheets/
+	nested spreadsheet
+
+github.com/zadam/trilium
+	hirarchial note taking application
+
+www.readcube.com/papers/ios
+	academic search engine
+	note taking in app
+	bookmarking
+
+https://github.com/burtonator/polar-bookshelf
+	incremental reading for pdf, web
+
+Notion.com
+	shared documents
+
+nvALT
+	note management
+	fast search
+
+dynalist.io
+	hierarchical lists
+	tagging
+	nodes references
+	images
+	single node zoom
+	search
+	web clipper
+	Dropbox
+	LaTeX
+
+dnote.io
+	micro capture notes from CLI
+
+johnnydecimal.com
+	doing apple to notes - enforce structure
+
+nodebook.io
+	mind maps
+	highlighting related
+	interactive
+
+
+www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies
+
+thebrain.com
+	mindmap
+	node focus
+	rich UI
+
+tika.apache.org
+	content analysis toolkit
+
+https://hamberg.no/gtd/
+
